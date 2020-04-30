@@ -1,3 +1,3 @@
 # Mikrotik Hotspot
 
-Defaul Login Page Mikrotik Hotspot.
+Default Login Page Mikrotik Hotspot.
