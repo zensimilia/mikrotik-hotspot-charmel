@@ -1,3 +1,1 @@
-# Mikrotik Hotspot
-
-Default Login Page Mikrotik Hotspot.
+# Mikrotik Hotspot HTML for Charme'L Hotel
